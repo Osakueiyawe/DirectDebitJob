@@ -1,0 +1,50 @@
+2022-07-04 16:14:26.097 +01:00 [INF] Worker running at: "2022-07-04T16:14:26.0840318+01:00"
+2022-07-04 16:16:45.569 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:23:09.245 +01:00 [INF] Worker running at: "2022-07-04T16:23:09.2222024+01:00"
+2022-07-04 16:23:14.406 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:26:08.524 +01:00 [INF] Worker running at: "2022-07-04T16:26:08.4972841+01:00"
+2022-07-04 16:26:12.054 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:27:35.055 +01:00 [INF] Worker running at: "2022-07-04T16:27:35.0276586+01:00"
+2022-07-04 16:27:37.761 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:29:37.709 +01:00 [INF] Worker running at: "2022-07-04T16:29:37.6890505+01:00"
+2022-07-04 16:29:40.012 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:35:05.203 +01:00 [INF] Worker running at: "2022-07-04T16:35:05.1776866+01:00"
+2022-07-04 16:35:08.250 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:36:36.736 +01:00 [INF] Worker running at: "2022-07-04T16:36:36.7138049+01:00"
+2022-07-04 16:36:40.177 +01:00 [INF] Number of data retrieved are: 1
+2022-07-04 16:37:52.605 +01:00 [INF] About to post to basis for 166943853
+2022-07-04 16:37:58.941 +01:00 [INF] Parameters sent to basis are:inp_acct_from: 020501524550010001000
+inp_acct_to: 020501549360010001000
+inp_tra_amt: 1000.5
+inp_expl_code: 102
+inp_remarks: Direct Debit
+inp_rqst_code: 32
+inp_man_app1: 0
+inp_tell_id: 9938
+inp_doc_alp: GWTR
+inp_origt_bra_code: 205
+inp_tra_seq1: 
+out_tra_seq1: 
+out_return_status: 
+
+2022-07-04 16:37:59.128 +01:00 [INF] Transaction from account: 020501524550010001000 has an output from basis which is: 1460
+2022-07-04 16:40:14.269 +01:00 [INF] Parameters sent to basis are:inp_acct_from: 020501524550010001000
+inp_acct_to: 020501549360010001000
+inp_tra_amt: 1000.5
+inp_expl_code: 102
+inp_remarks: Direct Debit
+inp_rqst_code: 32
+inp_man_app1: 0
+inp_tell_id: 9938
+inp_doc_alp: GWTR
+inp_origt_bra_code: 205
+inp_tra_seq1: 
+out_tra_seq1: 
+out_return_status: 
+
+2022-07-04 16:40:34.771 +01:00 [INF] Transaction from account: 020501524550010001000 has an output from basis which is: 1460
+2022-07-04 16:40:34.780 +01:00 [WRN] Failed to post to basis for reference Number: 166943853
+2022-07-04 16:40:34.786 +01:00 [INF] About to delay for the next : 24 hours
+2022-07-04 16:40:34.795 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-04 16:40:34.800 +01:00 [INF] Hosting environment: Development
+2022-07-04 16:40:34.808 +01:00 [INF] Content root path: C:\Users\osakue.iyawe.GTBANK\Desktop\Direct Debit Job\DirectDebitJob\DirectDebitJob\DirectDebitJob
